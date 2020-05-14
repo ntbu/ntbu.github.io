@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 신기술사업부
 ---
-# 신기술사업부
 
 바인테크 신기술사업부(NTBU)의 제품과 솔루션을 소개합니다.
 

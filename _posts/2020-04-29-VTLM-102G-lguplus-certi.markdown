@@ -1,8 +1,15 @@
 ---
 layout: post
 title:  "바인테크 LTE cat-m1 모듈 VTLM-102G LG U+ 사업자 인증 획득"
-date:   2020-05-01 01:23:34 +0900
-categories: LTE IoT Cat-m1 module VTLM-102G
+last_modified_at:   2020-05-01 01:23:34 +0900
+categories:
+  - news
+tags:
+  - LTE
+  - IoT
+  - Cat-m1
+  - module
+  - VTLM-102G
 ---
 바인테크의 LTE cat-m1 모듈(모델명 VTLM-102G)이 LG U+의 단말 망인증 시험에 합격하여 사업자 인증을 획득했습니다. 블루투스 비콘 상용 제품과, 비콘 기반 실시간 위치서비스, Litmus.Cloud 모니터링 온습도 서비스 등 근거리통신망 기반의 다양한 IoT 사업을 전개 해 온 바인테크는 금번 LG U+ 모듈인증을 통하여 이동통신망 기반의 사물인터넷 제품 및 서비스 다각화를 모색 할 수 있게 되었습니다.
 

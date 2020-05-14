@@ -5,10 +5,10 @@
 layout: home
 ---
 
-# New Technology Business Unit (NTBU)
+# 바인테크 신기술사업부
 
-## Products and Solutions
+## 제품과 솔루션
 
 ### Litmus.Cloud
 
-### WeZON Beacon
+### WeZON 비콘

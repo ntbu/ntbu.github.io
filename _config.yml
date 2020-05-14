@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: (주)바인테크 신기술사업부
+title: NTBU, Vinetech
 email: ntbu@vinetech.com
 description: >- # this means to ignore newlines until "baseurl:"
-  (주)바인테크 신기술사업부 New Technology Business Unit, Vinetech Co., Ltd.
-  신기술사업부는 사물인터넷 기술을 이용하여 다양한 산업의 현장에 혁신을 이끌어 내는
-  솔루션을 개발하고 있습니다. 단말 하드웨어에서 플랫폼까지 고객에게 가치를 전달하는
-  것을 최고의 목표로 삼고 연구개발에 힘쓰고 있습니다.
+  New Technology Business Unit, Vinetech Co., Ltd. \
+  NTBU (New Technology Business Unit) of Vinetech delivers the innovative IoT solution. We are offering from the IoT device hardware to the cloud solution and platform for the customer's success. Vinetech's leading R&D team can solve your problem and support business success.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

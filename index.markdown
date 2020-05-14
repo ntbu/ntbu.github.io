@@ -4,11 +4,8 @@
 
 layout: home
 ---
+# Products and Solutions
 
-# New Technology Business Unit (NTBU)
+## Litmus.Cloud
 
-## Products and Solutions
-
-### Litmus.Cloud
-
-### WeZON Beacon
+## WeZON Beacon

@@ -76,6 +76,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-170518270-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

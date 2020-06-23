@@ -1,8 +1,8 @@
 main:
-    - title: "한국어"
-      url: /
-    - title: "English"
-      url: /en/
+    - title: "WeZON"
+      url: /wezon
+    - title: "Litmus.Cloud"
+      url: /litmuscloud/
     - title: "새소식"
       url: /news/
     - title: "About"

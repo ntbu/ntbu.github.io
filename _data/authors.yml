@@ -1,0 +1,16 @@
+Vinetech:
+    name: "Vinetech"
+    avatar: "/assets/images/avatar_vinetech.png"
+    bio: "바인테크 신기술사업부 - 5G 시대의 새로운 사물인터넷 서비스를 실현합니다."
+    links:
+    - label: "Website"
+      icon: "fab fa-fw fa-link"
+      url: "http://www.vinetech.co.kr/"
+Litmus.Cloud:
+    name: "Litmus.Cloud"
+    avatar: "/assets/images/avatar_litmus.png"
+    bio: "바인테크 IoT B2B Solution 대표브랜드 Litmus.Cloud"
+    links:
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/litmuscloud/"
